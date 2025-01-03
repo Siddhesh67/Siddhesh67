@@ -9,8 +9,11 @@ Project Management: Leading and contributing to interdisciplinary projects to de
 
 💻 Featured Projects
 Smart Home Automation System: Developed a home automation system with Arduino and ESP8266, integrating sensors and Google Assistant for seamless operation.
+
 Dual Axis Solar Tracking: Engineered a solar panel system with weather sensors, achieving 20-30% energy output improvement.
+
 Branch Prediction Analysis: Designed hybrid predictors, improving processor performance by 15-20%.
+
 Emotion Detection with ML: Built a Python and OpenCV-based model achieving 85% accuracy for real-time emotion recognition.
 💡 I’m constantly learning and building. Stay tuned for more projects in the coming months!
 
