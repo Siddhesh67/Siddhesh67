@@ -4,7 +4,9 @@ Welcome to my GitHub! I’m a Graduate Student in Electrical and Computer Engine
 
 🌟 What I Do
 Embedded Systems Development: Designing firmware and hardware interfaces to optimize system performance.
+
 Software Engineering: Building robust, scalable applications with a focus on user-centric design.
+
 Project Management: Leading and contributing to interdisciplinary projects to deliver real-world solutions.
 
 💻 Featured Projects
