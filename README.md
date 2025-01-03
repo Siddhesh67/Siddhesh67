@@ -1,5 +1,7 @@
 👋 Hi there, I'm Siddhesh Saraf
+
 🚀 About Me
+
 Welcome to my GitHub! I’m a Graduate Student in Electrical and Computer Engineering at Rutgers University with a passion for turning complex problems into innovative solutions. With a solid foundation from my Bachelor’s in Electronics and Telecommunication, I specialize in creating impactful solutions that bridge hardware and software seamlessly.
 
 🌟 What I Do
