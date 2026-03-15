@@ -1,42 +1,36 @@
-👋 Hi there, I'm Siddhesh Saraf
+Hi, I'm Siddhesh Saraf 👋
 
-🚀 About Me
+Embedded Software Engineer | MS ECE @ Rutgers University (GPA 3.9) | ARM Cortex-M | FreeRTOS | C
+I build real-time embedded firmware — from bare-metal drivers to RTOS-based multi-task systems. I care about timing correctness, thread safety, and production-grade reliability.
 
-Welcome to my GitHub! I’m a Graduate Student in Electrical and Computer Engineering at Rutgers University with a passion for turning complex problems into innovative solutions. With a solid foundation from my Bachelor’s in Electronics and Telecommunication, I specialize in creating impactful solutions that bridge hardware and software seamlessly.
+🔧 What I Work With
+Embedded & Firmware
 
-🌟 What I Do
+STM32 (ARM Cortex-M4) — bare-metal and FreeRTOS
+Protocols: I2C, SPI, UART, DMA, Interrupts
+Tools: STM32CubeIDE, STM32CubeProgrammer, GDB, Logic Analyzer, Oscilloscope
 
-Embedded Systems Development: Designing firmware and hardware interfaces to optimize system performance.
+Languages
 
-Software Engineering: Building robust, scalable applications with a focus on user-centric design.
+C (primary), C++, Python, Verilog
 
-Project Management: Leading and contributing to interdisciplinary projects to deliver real-world solutions.
 
-💻 Featured Projects
+🚀 Featured Projects
+FreeRTOS Multi-Task IMU System
+C FreeRTOS STM32 I2C Kalman Filter Mutexes Queues
+Preemptive multitasking firmware on STM32 Nucleo F401RE with 4 concurrent tasks running at defined priorities. Features inter-task queues, mutex-protected UART, Kalman filter sensor fusion at 100Hz, stack high-water mark monitoring, and IWDG watchdog for fault recovery.
+MPU6050 Sensor Fusion — Bare Metal STM32
+C STM32 I2C Kalman Filter UART
+Bare-metal firmware implementing a Kalman filter for real-time roll/pitch estimation from a 6-DOF IMU. Direct register-level I2C driver, no HAL abstractions for core sensor logic.
+Branch Prediction Analysis
+C Computer Architecture
+Implemented global-history and bimodal branch predictors, achieving 99.99% prediction accuracy. Hybrid architecture reduced the misprediction rate by 16-21% over the baseline.
 
-Smart Home Automation System: Developed a home automation system with Arduino and ESP8266, integrating sensors and Google Assistant for seamless operation.
+📚 Currently Learning
 
-Dual Axis Solar Tracking: Engineered a solar panel system with weather sensors, achieving 20-30% energy output improvement.
-
-Branch Prediction Analysis: Designed hybrid predictors, improving processor performance by 15-20%.
-
-Emotion Detection with ML: Built a Python and OpenCV-based model achieving 85% accuracy for real-time emotion recognition.
-
-💡 I’m constantly learning and building. Stay tuned for more projects in the coming months!
-
-🔧 Tech Stack
-
-Embedded Systems: Arduino, STM32, Embedded C, MATLAB
-
-Programming Languages: Python, C++, JavaScript, SQL
-
-Web Development: HTML, CSS, React Native, Node.js
-
-Tools: STM32CubeIDE, Visual Studio Code, AutoCAD
-
-🌱 What’s Next?
-
-I’m diving deeper into advanced topics in distributed computing, firmware development, and IoT applications.
+CAN bus and automotive embedded protocols
+MISRA-C for safety-critical firmware
+Unit testing embedded C with Unity/CMock
 
 📫 How to Reach Me
 
