@@ -41,9 +41,12 @@ Preemptive multitasking firmware on STM32 Nucleo F401RE — 4 concurrent tasks a
 ---
 
 #### [MPU6050 Bare-Metal Sensor Fusion](https://github.com/Siddhesh67/STM32-IMU-Sensor-Fusion)
-Bare-metal firmware with no HAL abstraction for core sensor logic. Direct register-level I2C driver with real-time roll/pitch estimation via Kalman filter.
-- Wrote I2C driver at register level — no STM32 HAL dependency
-- Demonstrates deep understanding of I2C timing, ACK/NACK, and clock stretching
+
+Bare-metal firmware (no RTOS) with the MPU6050 driver written from scratch against the datasheet register map, and real-time roll/pitch estimation via Kalman filter.
+
+- Wrote the full MPU6050 driver myself using HAL I2C calls — no external sensor library
+- Implemented the Kalman filter from scratch in C, no filtering library
+- Debugged I2C bring-up on hardware, tracing a dead bus to incorrect pin mapping
 
 `C` `Bare-Metal` `STM32` `I2C` `Kalman Filter` `UART`
 
